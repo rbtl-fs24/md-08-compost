@@ -11,15 +11,26 @@ format:
 
 ## Research Question
 
-Here goes the research question
+How does the contamination of organic waste with plastics affect the profitability of compost production in urban Blantyre, Malawi?
 
-## Sampling Strategy
+## Sampling Strategy {.smaller}
 
-who or what did they measure/sample
+1.  **Labor Survey with Time-Driven Activity-Based Costing (TDABC)**
+    -   Identify the types and duration of each activity required.
+
+    -   Make a detailed account of the time that each activity takes, and the human and material resources allocated.
+    
+2.  **Cost Model**
+    -   Combine data from TDABC with capital (land, infrastructure and
+building, utility connections, consulting/advisory fees, etc.)
+and operating costs (labor, equipment, personal protective
+equipment (PPE), etc.).
+
+    -   Model the profitability dependent on different parameters.
 
 ## Key Findings
 
-![](compost_figure2.png)
+![Profitability as a function of plastic contamination at baseline model situation (capital expenditure excluded).](compost_figure2.png)
 
 ## Data Table Spreadsheet
 
