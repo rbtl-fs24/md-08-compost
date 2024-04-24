@@ -1,0 +1,18 @@
+---
+title: "The Cost of Plastics in Compost"
+subtitle: "Yesaya M, Mpanang’ombe W and Tilley E (2021)"
+author: "Presented by Eric, Yasemin, Sven and Till"
+format:
+  revealjs: 
+    theme: serif
+---
+
+## Research Question
+
+
+
+## Sampling Strategy
+
+
+
+## Key Findings
