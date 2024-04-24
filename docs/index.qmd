@@ -3,16 +3,24 @@ title: "The Cost of Plastics in Compost"
 subtitle: "Yesaya M, Mpanang’ombe W and Tilley E (2021)"
 author: "Presented by Eric, Yasemin, Sven and Till"
 format:
-  revealjs: 
+  revealjs:
+    logo: eth_logo.png
+    footer: Research Beyond The Lab FS24 - Module 8
     theme: serif
 ---
 
 ## Research Question
 
+Here goes the research question
+
 
 
 ## Sampling Strategy
 
+who or what did they measure/sample
+
 
 
 ## Key Findings
+
+![](compost_figure2.png)
