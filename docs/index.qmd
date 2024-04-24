@@ -13,14 +13,14 @@ format:
 
 Here goes the research question
 
-
-
 ## Sampling Strategy
 
 who or what did they measure/sample
 
-
-
 ## Key Findings
 
 ![](compost_figure2.png)
+
+## Data Table Spreadsheet
+
+[Google Sheets for md-08 "The Cost of Plastics in Compost"](https://docs.google.com/spreadsheets/d/1iCn5nPic_lFhmgPZAEoYQ-COB8P8uYFXefyfvok3bdc/edit#gid=345392398)
