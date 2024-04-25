@@ -16,7 +16,7 @@ How does the contamination of organic waste with plastics affect the profitabili
 ## Sampling Strategy {.smaller}
 
 1.  **Labor Survey with Time-Driven Activity-Based Costing (TDABC)**
-    -   Identify the types and duration of each activity required.
+    -   Identify the types of activities required.
 
     -   Make a detailed account of the time that each activity takes, and the human and material resources allocated.
     
@@ -41,3 +41,5 @@ equipment (PPE), etc.).
 [Raw Data](https://docs.google.com/spreadsheets/d/1iCn5nPic_lFhmgPZAEoYQ-COB8P8uYFXefyfvok3bdc/edit#gid=345392398)
 
 [Figure Data](https://docs.google.com/spreadsheets/d/1AjAEwBRGZtR2AF8NvPMdafJpjVcK9jqEBPyGZtI_N88/edit#gid=345392398)
+
+[Link to the Paper](https://www.frontiersin.org/articles/10.3389/frsus.2021.753413/full)
