@@ -32,6 +32,12 @@ equipment (PPE), etc.).
 
 ![Profitability as a function of plastic contamination at baseline model situation (capital expenditure excluded).](compost_figure2.png)
 
+## Key Findings
+
+![Profitability as a function of plastic contamination at baseline model situation (capital expenditure included).](compost_figure1.png)
+
 ## Data Table Spreadsheet
 
-[Google Sheets for md-08 "The Cost of Plastics in Compost"](https://docs.google.com/spreadsheets/d/1iCn5nPic_lFhmgPZAEoYQ-COB8P8uYFXefyfvok3bdc/edit#gid=345392398)
+[Raw Data](https://docs.google.com/spreadsheets/d/1iCn5nPic_lFhmgPZAEoYQ-COB8P8uYFXefyfvok3bdc/edit#gid=345392398)
+
+[Figure Data](https://docs.google.com/spreadsheets/d/1AjAEwBRGZtR2AF8NvPMdafJpjVcK9jqEBPyGZtI_N88/edit#gid=345392398)
