@@ -16,7 +16,7 @@ How does the contamination of organic waste with plastics affect the profitabili
 ## Sampling Strategy {.smaller}
 
 1.  **Labor Survey with Time-Driven Activity-Based Costing (TDABC)**
-    -   Identify the types of activities required.
+    -   Identify the types of activities required, i.e. sorting, piling, transport, packaging, cleaning, etc.
 
     -   Make a detailed account of the time that each activity takes, and the human and material resources allocated.
     
@@ -30,11 +30,11 @@ equipment (PPE), etc.).
 
 ## Key Findings
 
-![Profitability as a function of plastic contamination at baseline model situation (capital expenditure excluded).](compost_figure2.png)
+![Fig. 1: Profitability as a function of plastic contamination at baseline model situation (capital expenditure excluded).](compost_figure2.png)
 
 ## Key Findings
 
-![Profitability as a function of plastic contamination at baseline model situation (capital expenditure included).](compost_figure1.png)
+![Fig. 2: Profitability as a function of plastic contamination at baseline model situation (capital expenditure included).](compost_figure1.png)
 
 ## Data Table Spreadsheet
 
